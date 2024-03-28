@@ -2,6 +2,7 @@
 <%@ page import="java.sql.*"%>
 <%@ page import="java.net.*"%>
 <%
+
 	// 0. 로그인(인증) 분기
 	// diary.login.my_session => 'OFF' => redirect("loginForm.jsp")
 	
