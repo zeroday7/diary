@@ -3,6 +3,7 @@
 <%@ page import="java.net.*"%>
 <%@ page import="java.util.*"%>
 <%
+	
 	// 0. 로그인(인증) 분기
 	// diary.login.my_session => 'OFF' => redirect("loginForm.jsp")
 	
